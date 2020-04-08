@@ -1,0 +1,25 @@
+body {
+    background-color:#FED8B1;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#images {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    border-style:dotted;
+    border-width: 20px;
+    border-color: yellow;
+}
+
+h1 {
+    color:#BE4F62;
+    font-weight: bold;
+    text-align:center
+}
+
+h2 {
+    color: #4690E9;
+    text-decoration:underline
+}
+
